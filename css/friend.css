@@ -31,6 +31,7 @@
 .friend__content .friend__name{
     display: block;
     margin-bottom: 5px;
+    font-weight: 600;
 }
 
 
@@ -49,5 +50,17 @@
     font-size: 12px;
 }
 
+.friend .friend__now_music{
+    padding:5px 10px;
+    border-radius: 15px;
+    border: 2px solid #52e084;
+    font-size:14px;
+}
 
+.friend__now_music span{
+    opacity: 0.6;
+}
 
+.friend__now_music i{
+    font-size:12px;
+}
