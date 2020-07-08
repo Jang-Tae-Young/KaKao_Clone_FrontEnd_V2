@@ -7,7 +7,7 @@
     padding: 0px 20px;
 }
 
-.chat{
+.chat-screen{
     background-image:url("../images/chat_background.png") ;
     min-height: 100vh;
 }
